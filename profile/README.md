@@ -1,8 +1,8 @@
-## FoxPing
+## Echo-Host
 
 
 
-**Voicis ce que foxping est:**
+**Voicis ce que echo-host est:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
